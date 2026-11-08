@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "langchain-ai",
+  "repo": "new-langgraph-project",
+  "versions": [
+    {
+      "commit": "6d3f42296052c74ce57f9615da2ede10ba8dbe7d",
+      "parsed_at": "2026-11-08T00:45:31.603015+00:00",
+      "filetree": "filetree/6d3f42296052c74ce57f9615da2ede10ba8dbe7d.nq.gz",
+      "blobs": [
+        "blob/5bd2dd24a19f19c1f7c3d9e7f39279b72a81c934.nq.gz",
+        "blob/2a493994fca89882c6ec196f1b655b1f192d0834.nq.gz",
+        "blob/4bfd87862d0acd73748b2093c2c379a10e076b75.nq.gz",
+        "blob/b8c38d48abab3144f713e695e355d6cd90da9eaf.nq.gz",
+        "blob/9ccba2b20f1cc9d38aa8f60aa7d934c7d7176846.nq.gz",
+        "blob/4e931d0b6db86db9f26077c0a4bce3c375e4ec08.nq.gz",
+        "blob/d02981b813d1e326717873a241e8c2c1c96859d0.nq.gz",
+        "blob/26262e498a875964db44a835d2db5b2fb3bf8ba3.nq.gz",
+        "blob/ec66fc0ada00340287e2aa6dc6f56f12a64d2724.nq.gz",
+        "blob/c7d5f47d64da8cf1776734a27aa2bf1c65a94f9b.nq.gz",
+        "blob/f2900f275c77d938f4c6644e314e4d84fece36d9.nq.gz",
+        "blob/cd3bd38392ff20d4b023024d6fb2b1cfc886c9c1.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/743c2a0fea526d63910fe7e3ffbb05cff7973839.nq.gz",
+        "blob/68169be7cf71fcf8852c6876893a336a6c175799.nq.gz",
+        "blob/ad7b68b0b8b66a4a18d59647f824c0be5018f2ec.nq.gz",
+        "blob/e06f9e38f4d177b0787cfe7118d2a05ed6f76255.nq.gz",
+        "blob/57d0481d4b50c89fee2cb9e88242639d8e674028.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
