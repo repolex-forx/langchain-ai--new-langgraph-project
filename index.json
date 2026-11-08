@@ -1,0 +1,11 @@
+{
+  "org": "langchain-ai",
+  "repo": "new-langgraph-project",
+  "versions": [
+    {
+      "commit": "6d3f42296052c74ce57f9615da2ede10ba8dbe7d",
+      "tag": "",
+      "parsed_at": "2026-11-08T00:47:15.915073+00:00"
+    }
+  ]
+}
